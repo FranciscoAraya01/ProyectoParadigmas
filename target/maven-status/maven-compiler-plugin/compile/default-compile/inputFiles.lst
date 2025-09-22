@@ -1,0 +1,16 @@
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\config\OpenApiConfig.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\AppStatus.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\CriticalEvent.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\EndpointSum.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\EndpointUsage.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\ErrorCount.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\HourlyErrors.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\HttpMethodCount.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\ResponseStats.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\dto\TopError.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\endpoint\ReportsEndpoint.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\entity\LogEntry.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\filter\RequestLoggingFilter.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\ProyectoPpApplication.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\repository\LogEntryRepository.java
+C:\Users\grey0\Downloads\ProyectoPP\src\main\java\org\example\proyectopp\service\LogAnalyticsService.java
